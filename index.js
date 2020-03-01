@@ -24,17 +24,15 @@ var rsvpListener = null;
 var guestbookListener = null;
 
 // Add Firebase project configuration object here
- var firebaseConfig = {
-    apiKey: "AIzaSyA1dYkLQ5HpUzgp9KcWz91UxViuCylJSHA",
-    authDomain: "boreal-sweep-230311.firebaseapp.com",
-    databaseURL: "https://boreal-sweep-230311.firebaseio.com",
-    projectId: "boreal-sweep-230311",
-    storageBucket: "boreal-sweep-230311.appspot.com",
-    messagingSenderId: "797040849279",
-    appId: "1:797040849279:web:477370a6e0a67917a86a4a",
-    measurementId: "G-HW6W8FKJBV"
+var firebaseConfig = {
+    apiKey: "AIzaSyCCRzO6F8XcQ6k_OZY7z0u_C4d7RvKHGCs",
+    authDomain: "final-e7285.firebaseapp.com",
+    databaseURL: "https://final-e7285.firebaseio.com",
+    projectId: "final-e7285",
+    storageBucket: "final-e7285.appspot.com",
+    messagingSenderId: "562109867172",
+    appId: "1:562109867172:web:f2bd4ff1ab845f7f6b7231"
   };
-
 
  firebase.initializeApp(firebaseConfig);
 
