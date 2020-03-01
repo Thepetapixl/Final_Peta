@@ -24,7 +24,7 @@ var rsvpListener = null;
 var guestbookListener = null;
 
 // Add Firebase project configuration object here
-var firebaseConfig = {
+ var firebaseConfig = {
     apiKey: "AIzaSyCCRzO6F8XcQ6k_OZY7z0u_C4d7RvKHGCs",
     authDomain: "final-e7285.firebaseapp.com",
     databaseURL: "https://final-e7285.firebaseio.com",
